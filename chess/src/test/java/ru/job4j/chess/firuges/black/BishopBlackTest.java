@@ -7,7 +7,6 @@ import ru.job4j.chess.firuges.Figure;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-
 class BishopBlackTest {
 
     @Test
